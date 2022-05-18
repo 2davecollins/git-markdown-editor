@@ -1,0 +1,28 @@
+{
+  "name": "git-markup-editor",
+  "version": "0.1.0",
+  "description": "electron markup app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2davecollins/git-markdown-editor.git"
+  },
+  "keywords": [
+    "electron",
+    "markdown",
+    "editor"
+  ],
+  "author": "david collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2davecollins/git-markdown-editor/issues"
+  },
+  "homepage": "https://github.com/2davecollins/git-markdown-editor#readme",
+  "dependencies": {
+    "electron": "^18.2.3"
+  }
+}
